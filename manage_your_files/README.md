@@ -2,7 +2,7 @@ This Python script automatically sorts files in a given directory based on their
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 - The script checks each file's extension.
 - Moves the file into a folder based on the type:
